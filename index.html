@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width">
+    <title>Analisador Léxico</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="./css/metodos.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="container caixa">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img class="foto-perfil" src="img/img.png" alt="Foto de perfil do Jackson Felipe Magnabosco">
+                </div>
+
+                <div class="col-lg-6">
+                    <h1 class="titulo-nome">Analisador Léxico</h1>
+                </div>
+            </div>
+    </header>
+
+    <main>
+        <section class="projeto">
+            <div class="container">
+                <form class="form-edit" onsubmit="return false;">
+                    <div class="form-group">
+                        <table class="list-group">
+                            <caption id="txt-vocab" class="text-edit"></caption>
+                            <tbody id="lista-palavras"></tbody>
+                        </table>
+                    </div>
+
+                    <div class="form-group">
+                        <input id="inputadc" type="text" class="campo" value="" placeholder="Palavra"
+                            autocomplete="off">
+                        <a id="btn-adicionar" class="btn btn-info btn-ms btn-adc" title="Adicionar">
+                            <i class="fa fa-pencil" aria-hidden="true"></i>
+                            Adicionar
+                        </a>
+
+                        <a id="btn-limpar" class="btn btn-info btn-ms btn-rmv">
+                            <i class="fa fa-trash"></i>
+                            Limpar
+                        </a>
+                    </div>
+
+                    <div id='validate-analitc' class="form-group div-validate">
+                    </div>
+
+                </form>
+            </div>
+        </section>
+        <div class="container">
+            <table class="table-edit" id="tabela-vocabulario"></table>
+        </div>
+        <footer></footer>
+    </main>
+
+    <script type="text/javascript" src="./bootstrap/js/jquery.min.js"></script>
+    <script type="text/javascript" src="./bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="./js/index.js"></script>
+    <script type="text/javascript" src="./js/validar.js"></script>
+    <script type="text/javascript" src="./js/criar.js"></script>
+</body>
+
+</html>
