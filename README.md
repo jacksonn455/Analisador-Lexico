@@ -3,7 +3,7 @@ Programa para matéria de Linguagens formais
 
 - Crie uma aplicação que empregue um analisador léxico
 
-- Acesso em: https://jacksonn455.github.io/Teoria-das-Filas/
+- Acesso em: https://jacksonn455.github.io/Analizador-Lexico/
 
 ## Autor
 
