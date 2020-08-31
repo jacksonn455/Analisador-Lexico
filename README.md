@@ -1,7 +1,7 @@
 Programa para matéria de Linguagens formais
 ===============================================
 
-- Crie uma aplicação que empregue um analisador léxico
+- Implementação de um autômato finito para a disciplina de Linguagens Formais.
 
 - Acesso em: https://jacksonn455.github.io/Analizador-Lexico/
 
