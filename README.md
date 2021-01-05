@@ -12,4 +12,4 @@ Programa para matéria de Linguagens formais
   | :---: |
 
 --------------------
- ![](https://github.com/jacksonn455/Analizador-Lexico/blob/master/programa2.png)
+ ![](https://github.com/jacksonn455/Analisador-Lexico/blob/master/programa2.png)
