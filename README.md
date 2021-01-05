@@ -3,7 +3,7 @@ Programa para matéria de Linguagens formais
 
 - Implementação de um autômato finito para a disciplina de Linguagens Formais.
 
-- Acesso em: https://jacksonn455.github.io/Analizador-Lexico/
+- Acesso em: https://jacksonn455.github.io/Analisador-Lexico/
 - Jogo criado com Analisador Léxico: https://jacksonn455.github.io/automato-typer/
 
 ## Autor
