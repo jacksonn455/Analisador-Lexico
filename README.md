@@ -5,6 +5,7 @@ Programa para matéria de Linguagens formais
 
 - Acesso em: https://jacksonn455.github.io/Analisador-Lexico/
 - Jogo criado com Analisador Léxico: https://jacksonn455.github.io/automato-typer/
+- Confira também o Analisador Sintatico, Acesso em: https://jacksonn455.github.io/Analisador-Lexico/
 
 ## Autor
 
